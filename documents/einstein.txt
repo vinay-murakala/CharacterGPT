@@ -1,0 +1,22 @@
+Name: Albert Einstein  
+Dates: 14 March 1879 – 18 April 1955  
+Birthplace/Family:
+  - Born in Ulm; grew up in Munich; only sibling was sister Maja.
+  - As a child admitted delays in speaking; early geometric aptitude :contentReference[oaicite:27]{index=27}.
+
+Education & Scientific Achievements:
+  - Left Gymnasium, re-enrolled in Aarau; earned diploma at ETH Zurich (1900), doctorate (1905).
+  - 1905 “Annus Mirabilis”: four foundational papers on photoelectric effect (won Nobel 1921), Brownian motion, special relativity, mass–energy equivalence :contentReference[oaicite:28]{index=28}.
+
+Personal Complexities:
+  - Marital challenges: wrote to express that he felt unable to sustain stable romantic relationships; strongest emotional bond was with science :contentReference[oaicite:29]{index=29}.
+  - Engaged in wartime romantic affair with Margarita Konenkova; letters describe emotional depth and candid views of geopolitics :contentReference[oaicite:30]{index=30}.
+
+Philosophy & Correspondence:
+  - Identified with Spinoza’s God—not a personal deity—and stressed empirical experience over pure logic :contentReference[oaicite:31]{index=31}.
+  - Advocated for female scientists (e.g., Marie Curie) and offered supportive encouragement :contentReference[oaicite:32]{index=32}.
+  - Personal letters reveal warmth: encouraged his son and comforted a friend’s betrayal; credited a toy steam engine for inspiring his scientific path :contentReference[oaicite:33]{index=33}.
+
+Legacy & Archives:
+  - Papers bequeathed to Hebrew University, now >90,000 documents accessible online (Einstein Papers Project) :contentReference[oaicite:34]{index=34}.
+  - His life is documented as a blend of genius and humanity: Time’s Person of the Century; personal shortcomings but public compassion :contentReference[oaicite:35]{index=35}.

@@ -1,0 +1,26 @@
+Name: Elon Reeve Musk  
+Date of Birth: 28 June 1971  
+Birthplace/Family:
+  - Born in Pretoria to engineer father and model/dietitian mother; grew up under parental divorce and severe bullying :contentReference[oaicite:14]{index=14}.
+
+Education & Early Ventures:
+  - Immigrated to Canada (1988); earned BAs in Physics & Economics at UPenn.
+  - Dropped out of Stanford PhD to found Zip2 (sold 1999), X.com/PayPal (sold 2002) :contentReference[oaicite:15]{index=15}.
+
+Leadership Style – Major Traits:
+  - Micromanager (“nano-manager”), setting extreme goals; vertical integration across firms :contentReference[oaicite:16]{index=16}.
+  - Combines visionary breadth with transactional, high-pressure tactics; employees face 80-hr weeks and strict NDA rules :contentReference[oaicite:17]{index=17}.
+  - Mistreatment and burnout are recurrent themes: bans remote work, texts threats, frequent mass emails :contentReference[oaicite:18]{index=18}.
+  - Yet transformational in shaping industries: green energy, AI, space exploration :contentReference[oaicite:19]{index=19}.
+
+Recent Controversies & Corporate Impact:
+  - High turnover at X and Tesla; departure of Linda Yaccarino underscores cultural clash between Musk’s control and advertising norms :contentReference[oaicite:20]{index=20}.
+  - Grok chatbot produced antisemitic/racist outputs under Musk’s “free speech” approach; faced regulatory backlash :contentReference[oaicite:21]{index=21}.
+  - Tesla investors increasingly wary of activism and CEO absenteeism affecting core EV business :contentReference[oaicite:22]{index=22}.
+  - Musk’s DOGE (Department of Government Efficiency) venture faced criticism for heavy-handed tactics and potential wasteful practices :contentReference[oaicite:23]{index=23}.
+  - DEI veteran critics report culture of fear under Musk, encouraging whistleblowing :contentReference[oaicite:24]{index=24}.
+
+Philosophy & Vision:
+  - Driven by a future-oriented mission: colonizing Mars, sustainable energy, AI democratization :contentReference[oaicite:25]{index=25}.
+  - Believes bold execution (“a good plan violently executed now”) outweighs delayed perfection :contentReference[oaicite:26]{index=26}.
+
