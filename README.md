@@ -76,3 +76,33 @@ The application will open in your web browser. The first time you run it, it wil
 4.  **Retrieval**: The system searches the FAISS index to find the text chunks most relevant to your question.
 5.  **Generation**: The user's question, the selected persona, and the retrieved text chunks are passed to the Gemini Pro model via a carefully crafted prompt.
 6.  **Response**: The model generates a response that mimics the chosen persona, grounded in the retrieved context, and displays it on the screen.
+
+## 🧩 Project Structure
+
+- `app.py` — Streamlit UI logic only.
+- `vector_store.py` — Handles loading, saving, and cache invalidation for the FAISS vector store.
+- `persona.py` — Loads persona prompt templates and creates conversation chains.
+- `prompts/` — Contains external persona prompt templates (one .txt file per persona).
+- `documents/` — Source documents for each persona.
+- `faiss_index/` — Local FAISS vector store (auto-generated).
+
+## 🔒 Security Notes
+
+- **API Keys:** Never commit your `.env` file or API keys to version control. The app loads your Google API key from `.env`.
+- **Sensitive Data:** No sensitive data is logged or exposed in the UI.
+
+## 🧰 Troubleshooting
+
+- **Missing API Key:** If you see an error about the Google API key, ensure your `.env` file is present and correct.
+- **Dependency Issues:** If you encounter errors during installation, ensure you are using the correct Python version and that all dependencies are installed with the pinned versions in `requirements.txt`.
+- **Prompt Loading Errors:** If you add new personas, ensure you create a corresponding `.txt` file in `prompts/`.
+- **Cache Issues:** If you update documents and want to refresh the FAISS index, delete the `faiss_index/` directory or use the `invalidate_vector_store_cache()` function in `vector_store.py`.
+
+## 🏗️ Extending the App
+
+- To add a new persona:
+  1. Add a new `.txt` file in `documents/` with relevant content.
+  2. Add a new prompt template in `prompts/` (e.g., `marie_curie.txt`).
+  3. The app will automatically detect and load new personas at startup.
+
+---
