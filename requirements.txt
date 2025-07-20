@@ -4,3 +4,4 @@ langchain>=0.3.0,<0.4.0
 langchain-google-genai>=2.0.0,<3.0.0
 faiss-cpu>=1.7.4,<2.0.0
 langchain_community>=0.3.0,<0.4.0
+unstructured
